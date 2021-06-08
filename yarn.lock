@@ -4945,10 +4945,10 @@ gatsby-source-filesystem@^3.6.0:
     valid-url "^1.0.9"
     xstate "^4.14.0"
 
-gatsby-source-notion-api@^0.9.0:
-  version "0.9.0"
-  resolved "https://registry.yarnpkg.com/gatsby-source-notion-api/-/gatsby-source-notion-api-0.9.0.tgz#e7227624082360423342e98e7264e7f2f1b56a83"
-  integrity sha512-0GWlpyaE6rcTZdYESjHL+HmilL/0ttzUR29ptIm6D312X1maOmPMXT9l+uV91pz/iiyATM/xbYNWliWOB7oNHQ==
+gatsby-source-notion-api@^0.9.1:
+  version "0.9.1"
+  resolved "https://registry.yarnpkg.com/gatsby-source-notion-api/-/gatsby-source-notion-api-0.9.1.tgz#ccf0135e52725a6c334bcc402fcb3a2c69852a70"
+  integrity sha512-XEbEgpvfoodme8QA1egeU/B2UtDS8PMnYPtr0/4JC2r4hct9Y1FaGZA2WKPAtNI9WmguPZbwWwokZ0qFMiUlAQ==
   dependencies:
     node-fetch "^2.6.1"
     or-pipets "^1.0.1"
